@@ -1,0 +1,2 @@
+class Nlego < ApplicationRecord
+end

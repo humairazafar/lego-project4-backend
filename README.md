@@ -19,7 +19,7 @@ The backend of the app is created is Ruby in Rails, the database store three pie
 
 
 ## Notes
-
+Getting better with Github
 
 landingpage
 
